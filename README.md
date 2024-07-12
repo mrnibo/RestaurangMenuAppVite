@@ -2,6 +2,8 @@
 
 A modern, responsive app built with Vite, NextUI, and Tailwind for managing restaurant menus.
 
+![Screenshot](public/siteImg.png)
+
 ## Features
 
 - **Dynamic Menu Management**: Easily add, update, or remove menu items.
